@@ -38,7 +38,7 @@ FOR API INTEGRATION:
 - The app can have more than 1 interconnected screens
 
 For Realtime Database Integration:
-- The [Json File](https://drive.google.com/file/d/1fxRIeKsA7XxbQw3KJQzIKbUTqxPguHhD/view?usp=sharing) returns a list of JSON Objects, each of which represent a taxi trip and contain the following fields:
+- The [Json File](https://drive.google.com/file/d/12O4cMg4cprWHyD5MPlxYAw41NUrjAgyO/view?usp=sharing) returns a list of JSON Objects, each of which represent a taxi trip and contain the following fields:
   - driverId - Id of the driver 
   - customerId - Id of the customer
   - PUDatetime - pickup datetime
