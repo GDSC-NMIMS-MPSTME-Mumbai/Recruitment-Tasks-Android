@@ -1,3 +1,4 @@
+![](https://i.ibb.co/wrK2B3q/download.png)
 # Task - Implement a Dynamic App using the Flutter framework
 
 [comment]: <> (greetings)
@@ -14,7 +15,7 @@ Display your creativity and resilience by completing this task and meeting all t
 ## Task Details:
 In this task, you have to implement a Dynamic App using <b>API integration, async-await, and Future</b>
 - The app will interact with 2 API endpoints
-- The [first endpoint]() returns a list of JSON Objects, each of which represent a taxi trip and contain the following fields:
+- The [first endpoint](https://gdsc-nmims-mpstme-mumbai.github.io/App-Dev-Recruitment-API/data.json) returns a list of JSON Objects, each of which represent a taxi trip and contain the following fields:
   - driverId - Id of the driver 
   - customerId - Id of the customer
   - PUDatetime - pickup datetime
@@ -26,7 +27,7 @@ In this task, you have to implement a Dynamic App using <b>API integration, asyn
   - fare - fare for the trip
   - tax - tax charged
   - tip - tip given by customer
-- The [second endpoint]() return a list of Json Object, which represent locations and contain the following fields:
+- The [second endpoint](https://gdsc-nmims-mpstme-mumbai.github.io/App-Dev-Recruitment-API/locations.json) return a list of Json Object, which represent locations and contain the following fields:
   - locationId - Id of the location
   - town - town
   - zone - zone
@@ -35,7 +36,7 @@ In this task, you have to implement a Dynamic App using <b>API integration, asyn
 
 <b>Tip:</b> Keep in mind that this data can be used by both a taxi driver and a rider. Before starting choose which one you want to cater to and develop the interface accordingly. Also, think about how you want to make data specific to a user available to them.
 
-Additional documentation and resources for the API are available [here]()
+Additional documentation and resources for the API are available [here](https://gdsc-nmims-mpstme-mumbai.github.io/App-Dev-Recruitment-API/)
 
 ### Getting Started
 To get started, <b>Fork</b> this repository then,
@@ -70,4 +71,4 @@ If you are not familiar with Git and GitHub you can find resources on how to do 
 - [How to clone repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 - [How to make a new branch](https://www.educative.io/edpresso/git-branch-command?aid=5082902844932096&utm_source=google&utm_medium=cpc&utm_campaign=edpresso-dynamic&utm_term=&utm_campaign=Dynamic+-+Edpresso&utm_source=adwords&utm_medium=ppc&hsa_acc=5451446008&hsa_cam=8092184362&hsa_grp=86276435689&hsa_ad=397226000870&hsa_src=g&hsa_tgt=aud-470569448294:dsa-837376625453&hsa_kw=&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwyvaJBhBpEiwA8d38vE443-9M60MiKwhm52L399DUeuANM80hpBca-fIcY5uVGuqSa-agMRoC410QAvD_BwE)
 - [How to Fork, Colne and create a Pull request](https://opensource.com/article/19/7/create-pull-request-github)
-- [<b>All API related documentation</b>]()
+- [<b>All API related documentation</b>](https://gdsc-nmims-mpstme-mumbai.github.io/App-Dev-Recruitment-API/)
