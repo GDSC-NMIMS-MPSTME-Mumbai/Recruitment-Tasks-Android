@@ -1,4 +1,4 @@
-![alt text](https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-dsc/contentbuilder/logo_dark_horizontal_097s7oa.svg)
+![](https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-dsc/contentbuilder/logo_dark_horizontal_097s7oa.svg)
 # Greetings Android Development Applicants!
 ### Welcome to the Android Development Recruitment Task.
 Here we will be assessing your skills in app development and more importantly your willingness to learn, in this task you have an option of selecting any 1 task of your preferred framework. There are 2 options for each framework for different skill levels. Each options is available on a seperate branch in this repository which are also linked below.
