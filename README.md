@@ -21,7 +21,7 @@
 - [Siddhant Lad](https://wa.me/9082003007)
 - [Aditi Mohan](https://wa.me/9702939340)
 
-## Deadline for the task is on 15th September at 4:00 PM Sharp
-
+## Deadline for the task is on 
+## 15th September at 4:00 PM Sharp
 
 
