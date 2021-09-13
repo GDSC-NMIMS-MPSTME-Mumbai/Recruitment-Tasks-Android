@@ -1,4 +1,4 @@
-# Recruitment-Tasks-Android
+# Android (Native) Recruitment Task 2 -Intermediate
 ## Task - Implement a Dynamic App using the Native framework
 
 [comment]: <> (greetings)
