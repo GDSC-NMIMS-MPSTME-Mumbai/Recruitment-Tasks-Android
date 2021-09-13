@@ -1,3 +1,4 @@
+![](https://i.ibb.co/wrK2B3q/download.png)
 # Task - Implement a Weather App using the Flutter framework
 
 [comment]: <> (greetings)
