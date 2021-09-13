@@ -11,7 +11,7 @@
 ### <b>OR</b>
 ### [Flutter Intermediate](https://github.com/GDSC-NMIMS-MPSTME-Mumbai/Recruitment-Tasks-Android/tree/flutter-option2)
 
-## You will receive the instructions for the task in detail once you have selected one of the 4 options.
+## You will receive the instructions for the task in detail on the branch of the selected option.
 This task will help us select the people who are willing to put in the time and effort and show us their creativity the best way they can. 
 
 ## Once again, All the Best everyone, looking forward to seeing what you all make.
