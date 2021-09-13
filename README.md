@@ -25,8 +25,8 @@ This task will help us select the people who are willing to put in the time and 
 <br/>
 
 ### For any queries contact us on WhatsApp:
-- [Siddhant Lad](https://wa.me/9082003007)
-- [Aditi Mohan](https://wa.me/9702939340)
+- [Siddhant Lad](https://wa.me/919082003007)
+- [Aditi Mohan](https://wa.me/919702939340)
 
 ### Deadline for the task is on - 15th September at 4:00 PM Sharp
 And an extension of 1 day will be provided to candidates applying to multiple technical departments.
