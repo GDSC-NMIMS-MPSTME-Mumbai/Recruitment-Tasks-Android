@@ -1,3 +1,4 @@
+![](https://i.ibb.co/wrK2B3q/download.png)
 # Android (Native) Recruitment Task 2 -Intermediate
 ## Task - Implement a Dynamic App using the Native framework
 
