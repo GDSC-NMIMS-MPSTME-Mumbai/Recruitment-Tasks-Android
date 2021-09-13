@@ -14,13 +14,13 @@
 ### You will receive the instructions for the task in detail on the branch of the selected option.
 - This task will help us select the people who are willing to put in the time and effort and show us their creativity the best way they can. 
 
-## Once again, All the Best everyone, looking forward to seeing what you all make.
+### Once again, All the Best everyone, looking forward to seeing what you all make.
 
-## For any queries contact us on WhatsApp:
+### For any queries contact us on WhatsApp:
 - [Siddhant Lad](https://wa.me/9082003007)
 - [Aditi Mohan](https://wa.me/9702939340)
 
-# Deadline for the task is on 15th September at 4:00 PM Sharp
+## Deadline for the task is on 15th September at 4:00 PM Sharp
 
 
 
