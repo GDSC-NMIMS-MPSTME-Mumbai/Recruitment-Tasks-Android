@@ -1,5 +1,5 @@
 # Android (Native) Recruitment Task 1
-# Task - Implement a Weather App using the Native framework
+## Task - Implement a Weather App using the Native framework
 
 [comment]: <> (greetings)
 ### Hey there
