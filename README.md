@@ -1,3 +1,4 @@
+![](https://i.ibb.co/wrK2B3q/download.png)
 # Android (Native) Recruitment Task 1 -Beginner
 ## Task - Implement a Weather App using the Native framework
 
