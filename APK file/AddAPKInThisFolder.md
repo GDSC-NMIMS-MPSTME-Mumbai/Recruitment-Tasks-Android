@@ -1,1 +1,1 @@
-Upload your APK inside this Folder
+Add your APK inside this Folder
