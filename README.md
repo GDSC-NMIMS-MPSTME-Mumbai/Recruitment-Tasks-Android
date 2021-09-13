@@ -13,7 +13,7 @@ Display your creativity and resilience by completing this task and meeting all t
 
 [comment]: <> (outline details)
 ## Task Details:
-In this task, you have to implement a Dynamic App using <b>API integration using  Retrofit/Volley <b>OR</b> Firebase Realtime Database</b>
+In this task, you have to implement a Dynamic App using <b>API integration using  Retrofit/Volley <i>OR</i> Firebase Realtime Database</b>
 - The app will interact with 2 API endpoints(in case of Firebase Realtime database Json file will be given to you for importing to your own Realtime Database)
 
 FOR API INTEGRATION:
