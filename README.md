@@ -54,7 +54,7 @@ For Realtime Database Integration:
   - zone - zone
 - You can display this information anyhow you like
 - The app can have more than 1 interconnected screens
-
+[Here are the steps for importing the JSON file linked above to your own Realtime Database](https://drive.google.com/drive/folders/1OFi3XIEF8HYIqD-sL1oad7MuFFu-Wea5?usp=sharing)
 <b>Tip:</b> Keep in mind that this data can be used by both a taxi driver and a rider. Before starting choose which one you want to cater to and develop the interface accordingly. Also, think about how you want to make data specific to a user available to them.
 
 Additional documentation and resources for the API are available [here]()
