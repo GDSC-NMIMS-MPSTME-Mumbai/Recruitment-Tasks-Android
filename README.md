@@ -18,7 +18,7 @@ In this task, you have to implement a Dynamic App using <b>API integration using
 - The app will interact with 2 API endpoints(in case of Firebase Realtime database Json file will be given to you for importing to your own Realtime Database)
 
 FOR API INTEGRATION:
-- The [first endpoint]() returns a list of JSON Objects, each of which represent a taxi trip and contain the following fields:
+- The [first endpoint](https://gdsc-nmims-mpstme-mumbai.github.io/App-Dev-Recruitment-API/data.json) returns a list of JSON Objects, each of which represent a taxi trip and contain the following fields:
   - driverId - Id of the driver 
   - customerId - Id of the customer
   - PUDatetime - pickup datetime
@@ -30,7 +30,7 @@ FOR API INTEGRATION:
   - fare - fare for the trip
   - tax - tax charged
   - tip - tip given by customer
-- The [second endpoint]() return a list of Json Object, which represent locations and contain the following fields:
+- The [second endpoint](https://gdsc-nmims-mpstme-mumbai.github.io/App-Dev-Recruitment-API/locations.json) return a list of Json Object, which represent locations and contain the following fields:
   - locationId - Id of the location
   - town - town
   - zone - zone
