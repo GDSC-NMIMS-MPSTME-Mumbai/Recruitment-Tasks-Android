@@ -1,4 +1,4 @@
-![](https://i.ibb.co/wrK2B3q/download.png)
+![](https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-dsc/contentbuilder/logo_dark_horizontal_097s7oa.svg)
 # Android (Native) Recruitment Task 1 -Beginner
 ## Task - Implement a Weather App using the Native framework
 
