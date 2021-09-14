@@ -49,3 +49,10 @@ If you are not familiar with Git and GitHub you can find resources on how to do 
 - [How to clone repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 - [How to make a new branch](https://www.educative.io/edpresso/git-branch-command?aid=5082902844932096&utm_source=google&utm_medium=cpc&utm_campaign=edpresso-dynamic&utm_term=&utm_campaign=Dynamic+-+Edpresso&utm_source=adwords&utm_medium=ppc&hsa_acc=5451446008&hsa_cam=8092184362&hsa_grp=86276435689&hsa_ad=397226000870&hsa_src=g&hsa_tgt=aud-470569448294:dsa-837376625453&hsa_kw=&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwyvaJBhBpEiwA8d38vE443-9M60MiKwhm52L399DUeuANM80hpBca-fIcY5uVGuqSa-agMRoC410QAvD_BwE)
 - [How to Fork, Colne and create a Pull request](https://opensource.com/article/19/7/create-pull-request-github)
+- **Flutter Tutorials:**
+  - Weather app tutorial
+  
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KARSo1nMxp4/0.jpg)](https://www.youtube.com/watch?v=KARSo1nMxp4)
+  - Weather app tutorial with a slightly different approach
+  
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/A9EWCl67hKw/0.jpg)](https://www.youtube.com/watch?v=A9EWCl67hKw)
